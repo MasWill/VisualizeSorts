@@ -12,7 +12,7 @@ public class VisualizeSorts extends JFrame{
 	
 	public VisualizeSorts() {
 		//set GUI elements
-		setTitle("Assignment11");
+		setTitle("Visualize Sorts");
 		setLayout(new  GridLayout(0,3,0,0));
 		setSize(900,400);
 		
